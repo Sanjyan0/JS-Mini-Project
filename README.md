@@ -1,14 +1,13 @@
 # Premium Laundry Services Web App
 
 ## 📌 Project Overview
-This project is a fully responsive and dynamic frontend web application designed for a modern laundry service. It provides a seamless user experience, allowing customers to explore available services, build a custom cart, and submit a booking request. The application features a clean, professional user interface, interactive elements, and a simulated email confirmation system.
+This project is a fully responsive and dynamic frontend web application designed for a modern laundry service. It provides a seamless user experience, allowing customers to explore available services, build a custom cart, and submit a booking request. The application features a clean, professional user interface and interactive elements
 
 ## Key Features
 - Responsive Layout
 - Dynamic Cart System
 - Toast Notifications
 - Interactive UI
-- EmailJS Integration
 
 ## Technologies Used
 - **HTML5:** Semantic page structure.
